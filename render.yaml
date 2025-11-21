@@ -1,0 +1,7 @@
+service: plenitudehub-complete
+type: web
+env: node
+buildCommand: npm install
+startCommand: node services/api-gateway/index.js
+plan: free
+branch: main

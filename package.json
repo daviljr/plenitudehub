@@ -1,0 +1,8 @@
+{
+  "name": "plenitudehub-complete",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node services/api-gateway/index.js"
+  }
+}
