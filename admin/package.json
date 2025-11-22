@@ -1,0 +1,11 @@
+{
+  "name": "plenitude-admin",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "serve -s . -l 3005"
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
